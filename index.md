@@ -15,7 +15,7 @@ This lab was fun because it was where I really began to realize how there are in
 
 Lab 6 Part 2 :
 
-This was my favorite lab overall because of the fact that we created a program that lets you play blackjack. Blackjack has been a game that I learned how to play before but I would have never thought that I would create a program that would allow you to play it. This was the overall most fun because it was something that I had known about before and was already interested in.
+This was my favorite lab overall because of the fact that we created a program that lets you play blackjack. Blackjack has been a game that I learned how to play before but I would have never thought that I would create a program that would allow you to play it. This was the overall most fun because it was something that I had known about before and was already interested in. 
 
 Lab  9 Part 1 :
 
