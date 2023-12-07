@@ -1,7 +1,7 @@
 
 # Anthony Jimenez's Portfolio
 
-This is my homepage! My name is Anthony JimenezI am a computer science major at CSUF and I plan on graduating in 2027.
+This is my homepage! My name is Anthony Jimenez and I am a computer science major at CSUF and I plan on graduating in 2027.
 
 ## Computer Science Projects
 
